@@ -17,7 +17,6 @@ sap.ui.define([
         }
     });
 
-
     QUnit.test("Should return the translated texts", function(assert) {
 
         // Arrange
